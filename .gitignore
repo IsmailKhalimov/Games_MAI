@@ -1,0 +1,40 @@
+# Unity generated folders (project located in "My project")
+My project/[Ll]ibrary/
+My project/[Tt]emp/
+My project/[Oo]bj/
+My project/[Ll]ogs/
+My project/[Uu]ser[Ss]ettings/
+My project/[Mm]emoryCaptures/
+My project/[Rr]ecordings/
+
+# Builds
+My project/[Bb]uild/
+My project/[Bb]uilds/
+My project/ServerData/
+My project/StreamingAssets/aa.meta
+My project/StreamingAssets/aa/
+
+# IDE / generated solution files
+My project/.vs/
+My project/.vscode/
+My project/*.csproj
+My project/*.unityproj
+My project/*.sln
+My project/*.slnx
+My project/*.suo
+My project/*.user
+My project/*.userprefs
+My project/*.pidb
+My project/*.booproj
+My project/*.svd
+My project/*.pdb
+My project/*.mdb
+My project/*.opendb
+My project/*.VC.db
+
+# OS / temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
